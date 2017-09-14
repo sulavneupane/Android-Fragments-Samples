@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuSplit"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:onClick="onMenuSplit"
+        android:title="Split"/>
+    <item
+        android:id="@+id/menuSeparate"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:onClick="onMenuSeparate"
+        android:title="Separate Activities"/>
+    <item
+        android:id="@+id/menuButtonHandling"
+        android:icon="@android:drawable/ic_menu_add"
+        android:onClick="onMenuButtonHanding"
+        android:title="Button Handling"/>
+    <item
+        android:id="@+id/menuQuit"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:onClick="onMenuQuit"
+        android:showAsAction="always"
+        android:title="Exit"/>
+</menu>

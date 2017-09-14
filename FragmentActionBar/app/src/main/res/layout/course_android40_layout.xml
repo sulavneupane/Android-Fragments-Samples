@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:background="#008800"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/courseAndroid40DescriptionTextView"
+            android:text="Android 4.0 is the most substantial update to the Android platform since the platform’s initial release. In this course we cover the major new features available to developers in Android 4.0 including the many new UI capabilities and controls, the new networking and communication features, support for developing applications that target both phones and tablets, and much more."/>
+</ScrollView>

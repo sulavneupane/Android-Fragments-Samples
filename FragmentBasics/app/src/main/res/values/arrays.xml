@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="courseDescriptions">
+        <item>Android 4.0 includes a number of new developer features that improve the ability for applications to support a wide variety of devices and enhance developer productivity. In this course we will exam many of these new features including Android user interface Fragments, the ActionBar, how to detect network availability, working with peer-to-peer network communications, and using the new Calendar API.</item>
+        <item>This course covers beginning level Android development from the perspective of a .NET developer. In this course you will learn to create a simple multi-screen Android application that can utilize menus and preferences and learn to deploy that application to the Android marketplace.</item>
+        <item>Virtually all interactivity between Android components occurs through a special messaging concept known as intents. In this course you will learn how to work effectively with and capitalize on the many capabilities of the Android platform provided through intents.</item>
+        <item>The ActionBar incorporates a variety of previously disparate user interaction concepts into a single control. The ActionBar provides one-stop shopping for menu management, home and back behavior, tabbed displays, screen layout adaptability, and many more user interaction concepts. In this course we look at how to provide a rich user experience by taking full advantage of the ActionBar in your apps.</item>
+        <item>In this course you will learn how to use Android services and asynchronous processing to create applications that provide a more responsive user experience. Topics covered include Android Services, background processing, threading, asynchronous tasks, Started Services, Foreground Services, Notifications, Android Service lifecycle, and ExecutorService.</item>
+    </string-array>
+</resources>

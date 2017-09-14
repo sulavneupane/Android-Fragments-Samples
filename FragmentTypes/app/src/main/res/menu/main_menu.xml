@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuList"
+           android:icon="@android:drawable/ic_menu_preferences"
+           android:onClick="onMenuList"
+           android:title="List Fragment"/>
+    <item android:id="@+id/menuWebView"
+          android:icon="@android:drawable/ic_menu_preferences"
+          android:onClick="onMenuWeb"
+          android:title="WebView Fragment"/>
+    <item android:id="@+id/menuDialog"
+           android:icon="@android:drawable/ic_menu_preferences"
+           android:onClick="onMenuDialog"
+           android:title="Dialog"/>
+    <item android:id="@+id/menuDialogWrapped"
+          android:icon="@android:drawable/ic_menu_rotate"
+          android:onClick="onMenuDialogWrapped"
+          android:title="Dialog (Wrapped)"/>
+    <item android:id="@+id/menuDialogAdd"
+          android:icon="@android:drawable/ic_menu_rotate"
+          android:onClick="onMenuDialogAdd"
+          android:title="Dialog (Add)"/>
+    <item android:id="@+id/menuQuit"
+          android:icon="@android:drawable/ic_lock_power_off"
+          android:onClick="onMenuQuit"
+          android:title="Exit"/>
+</menu>

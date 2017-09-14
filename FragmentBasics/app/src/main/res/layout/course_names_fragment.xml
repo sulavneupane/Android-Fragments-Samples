@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <RadioGroup
+        android:id="@+id/courseSelectGroup"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        >
+        <RadioButton
+            android:id="@+id/course4NewFeatures"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Android 4.0 New Features"
+            android:checked="true"
+            />
+        <RadioButton
+            android:id="@+id/courseIntro"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Intro to Android Development"
+            />
+        <RadioButton
+            android:id="@+id/courseIntents"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Android Programming with Intents"
+            />
+        <RadioButton
+            android:id="@+id/courseActionBar"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Improving UI Interaction with Android ActionBar"
+            />
+        <RadioButton
+            android:id="@+id/courseAsyncAndServices"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Android Async Programming and Services"
+            />
+    </RadioGroup>
+</LinearLayout>

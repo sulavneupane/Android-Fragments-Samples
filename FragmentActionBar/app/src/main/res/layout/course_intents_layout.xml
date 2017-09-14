@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:background="#000088"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/courseIntentsDescriptionTextView"
+            android:text="Virtually all interactivity between Android components occurs through a special messaging concept known as intents. In this course you will learn how to work effectively with and capitalize on the many capabilities of the Android platform provided through intents."/>
+</ScrollView>

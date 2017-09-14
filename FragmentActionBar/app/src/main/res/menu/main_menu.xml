@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuAndroid40CourseFragment"
+        android:title="Android 4.0 Course"
+        />
+    <item
+        android:id="@+id/menuIntentsCourseFragment"
+        android:title="Android Intents Course"
+        />
+    <item
+        android:id="@+id/menuList"
+        android:title="List"
+        />
+    <item
+        android:id="@+id/menuTabbed"
+        android:title="Tabbed"
+        />
+    <item
+        android:id="@+id/menuExit"
+        android:icon="@android:drawable/ic_lock_power_off"
+        android:showAsAction="ifRoom"
+        android:title="Exit"
+        />
+</menu>
